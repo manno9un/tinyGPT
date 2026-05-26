@@ -773,29 +773,4 @@ ls -lah *.pt *.json          # Check saved files
 du -sh *.txt *.pt            # Check file sizes
 ```
 
----
-
-<div align="center">
-
-Made with ❤️ using PyTorch and Transformers
-
-**[GitHub](https://github.com/YOUR_USERNAME/tGPT)** • **[Paper](https://arxiv.org/abs/1706.03762)** • **[Dataset](https://huggingface.co/datasets/Salesforce/wikitext)**
-
-</div>
-
----
-
-**Last Updated:** 2024  
-**Model Status:** Production-ready  
-**Training Status:** Tested and validated  
-
-**Citation:**
-```bibtex
-@software{tgpt2024,
-  title={tGPT: Transformer Language Model from Scratch},
-  author={Your Name},
-  year={2024},
-  url={https://github.com/YOUR_USERNAME/tGPT}
-}
-```
 
