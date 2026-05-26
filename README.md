@@ -5,11 +5,10 @@
 ![Python](https://img.shields.io/badge/Python-3.8+-3776ab?style=flat-square&logo=python)
 ![PyTorch](https://img.shields.io/badge/PyTorch-2.0+-ee4c2c?style=flat-square&logo=pytorch)
 ![License](https://img.shields.io/badge/License-MIT-green?style=flat-square)
-![Status](https://img.shields.io/badge/Status-Production-brightgreen?style=flat-square)
+
 
 A **production-grade GPT language model** trained from scratch on Wikipedia (wikitext-103). Features transformer architecture, multi-head attention, and efficient inference with mixed precision training.
 
-[Features](#-features) • [Architecture](#-model-architecture) • [Installation](#-installation) • [Usage](#-usage) • [Skills](#-skills-demonstrated) • [Training](#-training-details)
 
 </div>
 
