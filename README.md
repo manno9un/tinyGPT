@@ -633,18 +633,6 @@ Iteration 15000:    train_loss ≈ 0.5, val_loss ≈ 0.6  (final)
 - Scaled dot-product attention
 - Positional encodings
 
-**Implementation notes:**
-- This project uses decoder-only architecture (GPT-style)
-- Original paper had encoder-decoder
-- We apply causal masking for language modeling
-
-### Related Work
-
-**GPT Series:**
-- GPT-1 (2018): Decoder-only transformer for language modeling
-- GPT-2 (2019): Larger scale, emergent abilities
-- GPT-3 (2020): Few-shot learning capabilities
-
 **Educational References:**
 - nanoGPT by Andrej Karpathy: [github.com/karpathy/nanoGPT](https://github.com/karpathy/nanoGPT)
 - Stanford CS224N: NLP with Deep Learning
