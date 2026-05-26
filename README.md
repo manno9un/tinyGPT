@@ -301,7 +301,7 @@ class GPTLanguageModel(nn.Module):
 #### 1. Clone Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/tGPT.git
+git clone https://github.com/manno9un/tGPT.git
 cd tGPT
 ```
 
